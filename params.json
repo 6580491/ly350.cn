@@ -1,0 +1,6 @@
+{
+  "name": "Ly350.cn",
+  "tagline": "来呀350",
+  "body": "<script language=\"javascript\" type=\"text/javascript\"> \r\n// 以下方式直接跳转\r\nwindow.location.href='hello.html';\r\n// 以下方式定时跳转\r\nsetTimeout(\"javascript:location.href='http://gw2edit.sinaapp.com/'\", 5000); \r\n</script>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
